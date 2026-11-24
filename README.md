@@ -132,12 +132,6 @@ To start fresh, delete these three files.
 
 ---
 
-## Presentation
-
-Our class presentation: [SaveSlice by .env (PowerPoint)](SaveSlice_by__env.pptx)
-
----
-
 ## Contributors
 
 **Team `.env`**
