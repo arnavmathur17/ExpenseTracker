@@ -112,8 +112,8 @@ To start fresh, delete these three files.
 ## Built With
 
 - **C** (standard library only: `stdio`, `stdlib`, `string`, `time`, `math`)
-- **gcc** on Ubuntu (WSL)
-- CSV files for storage, with `fgets` + `sscanf` for input validation
+- **gcc** on Ubuntu
+- CSV files for storage, with `fgets` + `scanf` for input validation
 
 ---
 
@@ -126,7 +126,7 @@ To start fresh, delete these three files.
 
 ## What's Next
 
-- Withdraw from the wallet for savings goals
+- Withdraw from the wallet for savings goals (Cuz if money can be pulled out at any moment, the wallet is just another balance you can spend)
 - Safe editing of past expenses
 - Charts and monthly reports
 
